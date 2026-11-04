@@ -69,12 +69,13 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="644.6666666666666,449.65666666666664" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="646.6666666666666,444.32333333333327" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="450,114.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Clonccsde Git zZchecksuerxzx&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="450,124" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Clonccsde Git zZchecksuerxzx&quot;]" />
+    <WriteLine DisplayName="Dev2" sap:VirtualizedContainerService.HintSize="450,114.66666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Its me developerwewe 2" />
   </Sequence>
 </Activity>
